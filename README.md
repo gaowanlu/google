@@ -1,4 +1,4 @@
-# Vercel Google Search Proxy
+# Vercel Website Proxy
 
 ## Quick start
 
