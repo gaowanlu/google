@@ -59,7 +59,7 @@ The deploy process is currently underway. Please wait for it to complete.
 
 ![Deploy success](./asset/225816.jpg)
 
-The domain vercel for you
+The domain vercel for you.
 
 In 2022, the Vercel domain name in mainland China may experience DNS pollution, so it is advisable to register a domain name within mainland China. Typically, beginners on major domain name platforms can obtain a domain name with one-year usage rights for 1 RMB.
 
@@ -69,20 +69,20 @@ In 2022, the Vercel domain name in mainland China may experience DNS pollution, 
 
 No more elaboration, if you encounter problems, you can submit an issue, and some netizens will answer your questions with each other.
 
-7、To configure your own domain and cname
+7、To configure your own domain and cname.
 
 ![](./asset/230712.jpg)
 ![](./asset/231001.jpg)
 
-Manage your domain name
+Manage your domain name.
 
 ![](./asset/231513.jpg)
 
-The TXT record needs to fill in the content provided by vercel above, and the cname is the same
+The TXT record needs to fill in the content provided by vercel above, and the cname is the same.
 
 ![](./asset/231835.jpg)
 
-8、Enjoy it
+8、Enjoy it.
 
 `https://google.{{mydomain}}.com`
 
@@ -90,13 +90,13 @@ The TXT record needs to fill in the content provided by vercel above, and the cn
 
 ![](./asset/232111.jpg)
 
-9、Modify the default browser engine for your own service
+9、Modify the default browser engine for your own service.
 
 ![](./asset/232617.jpg)
 
 ![](./asset/232857.jpg)
 
-Setting the default item
+Setting the default item.
 
 ![](./asset/232826.jpg)
 
@@ -108,8 +108,8 @@ To disable Chrome security protection in Chrome browser settings.
 
 ![](./asset/032114.jpg)
 
-## Change which data center your service is in
+## Change which data center your service is in.
 
-This affects your ip address when you use google search
+This affects your ip address when you use google search.
 
 ![](./asset/233500.jpg)
